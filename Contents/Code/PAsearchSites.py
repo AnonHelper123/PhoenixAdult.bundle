@@ -120,8 +120,17 @@ import network5Kporn
 import networkTeenCoreClub
 import networkExploitedX
 import siteDesperateAmateurs
+import networkDirtyHardDrive
+import siteMeloneChallenge
+import siteHollyRandall
+import siteInTheCrack
+import siteAngelaWhite
+import siteCumbizz
+import sitePornstarPlatinum
+import siteWoodmanCastingX
+import networkScoreGroup
 
-searchSites = [None] * 980
+searchSites = [None] * 1022
 
 searchSites[0] = ("BlackedRaw", "BlackedRaw", "https://www.blackedraw.com", "https://www.blackedraw.com/api")
 searchSites[1] = ("Blacked", "Blacked", "https://www.blacked.com", "https://www.blacked.com/api")
@@ -310,13 +319,13 @@ searchSites[184] = ("PornFidelity", "PornFidelity", "https://www.pornfidelity.co
 searchSites[185] = ("TeenFidelity", "TeenFidelity", "https://www.pornfidelity.com", "https://www.pornfidelity.com/episodes/search/?site=3&page=1&search=")
 searchSites[186] = ("Kelly Madison", "Kelly Madison", "https://www.pornfidelity.com", "https://www.pornfidelity.com/episodes/search/?site=1&page=1&search=")
 searchSites[187] = ("TeamSkeet", "TeamSkeet", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
-searchSites[188] = ("Exxxtra Small", "Exxxtra Small", "https://www.exxxtrasmall.com", "https://www.exxxtrasmall.com/movies")
-searchSites[189] = ("Teen Pies", "Teen Pies", "https://www.teenpies.com", "https://www.teenpies.com/movies")
-searchSites[190] = ("Innocent High", "Innocent High", "https://www.innocenthigh.com", "https://www.innocenthigh.com/movies")
-searchSites[191] = ("Teen Curves", "Teen Curves", "https://www.teencurves.com", "https://www.teencurves.com/movies")
+searchSites[188] = ("Exxxtra Small", "Exxxtra Small", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[189] = ("Teen Pies", "Teen Pies", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[190] = ("Innocent High", "Innocent High", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[191] = ("Teen Curves", "Teen Curves", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
 searchSites[192] = ("CFNM Teens", "CFNM Teens", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
-searchSites[193] = ("Teens Love Anal", "Teens Love Anal", "https://www.teensloveanal.com", "https://www.teensloveanal.com/movies")
-searchSites[194] = ("My Babysitters Club", "My Babysitters Club", "https://www.mybabysittersclub.com", "https://www.mybabysittersclub.com/movies")
+searchSites[193] = ("Teens Love Anal", "Teens Love Anal", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[194] = ("My Babysitters Club", "My Babysitters Club", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
 searchSites[195] = ("She's New", "She's New", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
 searchSites[196] = ("Teens Do Porn", "Teens Do Porn", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
 searchSites[197] = ("POV Life", "POV Life", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
@@ -332,12 +341,12 @@ searchSites[206] = ("Her Freshman Year", "Her Freshman Year", "https://www.teams
 searchSites[207] = ("Self Desire", "Self Desire", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
 searchSites[208] = ("Solo Interviews", "Solo Interviews", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
 searchSites[209] = ("Team Skeet Extras", "Team Skeet Extras", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
-searchSites[210] = ("Dyked", "Dyked", "https://www.dyked.com", "https://www.dyked.com/movies")
-searchSites[211] = ("Badmilfs", "Badmilfs", "https://www.badmilfs.com", "https://www.badmilfs.com/movies")
+searchSites[210] = ("Dyked", "Dyked", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[211] = ("Badmilfs", "Badmilfs", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
 searchSites[212] = ("Gingerpatch", "Gingerpatch", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
 searchSites[213] = ("BraceFaced", "BraceFaced", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
-searchSites[214] = ("TeenJoi", "TeenJoi", "https://www.teenjoi.com", "https://www.teenjoi.com/movies")
-searchSites[215] = ("StepSiblings", "StepSiblings", "https://www.stepsiblings.com", "https://www.stepsiblings.com/movies")
+searchSites[214] = ("TeenJoi", "TeenJoi", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[215] = ("StepSiblings", "StepSiblings", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
 searchSites[216] = ("Lets Doe It", "Let's Doe It", "https://letsdoeit.com", "https://letsdoeit.com/search.en.html?q=")
 searchSites[217] = ("The White Boxxx", "The White Boxxx", "https://letsdoeit.com", "https://letsdoeit.com/search.en.html?q=")
 searchSites[218] = ("Scam Angels", "Scam Angels", "https://letsdoeit.com", "https://letsdoeit.com/search.en.html?q=")
@@ -1098,11 +1107,52 @@ searchSites[972] = ("Teens Go Porn", "Teens Go Porn", "https://teencoreclub.com/
 searchSites[973] = ("We Need New Talents", "We Need New Talents", "https://teencoreclub.com/", "https://teencoreclub.com/video/")
 searchSites[974] = ("X Core Club", "X Core Club", "https://teencoreclub.com/", "https://teencoreclub.com/video/")
 searchSites[975] = ("Blackmailed", "Blackmailed", "https://www.evilangel.com", "https://tsmkfa364q-dsn.algolia.net/1/indexes/*/queries")
-searchSites[976] = ("Backroom Casting Couch", "Backroom Casting Couch", "https://backroomcastingcouch.com/", "https://backroomcastingcouch.com/free/girls.php?t=2&alpha=")
-searchSites[977] = ("Black Ambush", "Black Ambush", "https://blackambush.com/", "https://blackambush.com/free/girls.php")
-searchSites[978] = ("Exploited College Girls", "Exploited College Girls", "https://exploitedcollegegirls.com/", "https://exploitedcollegegirls.com/free/girls.php?alpha=")
+searchSites[976] = ("Backroom Casting Couch", "Backroom Casting Couch", "https://backroomcastingcouch.com", "https://backroomcastingcouch.com")
+searchSites[977] = ("Black Ambush", "Black Ambush", "https://blackambush.com", "https://blackambush.com")
+searchSites[978] = ("Exploited College Girls", "Exploited College Girls", "https://exploitedcollegegirls.com", "https://exploitedcollegegirls.com")
 searchSites[979] = ("Desperate Amateurs", "Desperate Amateurs", "https://desperateamateurs.com/", "https://desperateamateurs.com/fintour/search.php?st=advanced&qall=")
-
+searchSites[980] = ("Bang My Hand", "Bang My Hand", "http://www.bangmyhand.com/", "http://www.bangmyhand.com/tour1/")
+searchSites[981] = ("Dirty Sluts and Studs", "Dirty Sluts and Studs", "http://www.dirtyharddrive.com/", "http://www.dirtyharddrive.com/tour1/")
+searchSites[982] = ("Katie Kox", "Katie Kox", "http://www.katiekox.com/", "http://www.katiekox.com/tour1/")
+searchSites[983] = ("Sophie Dee and Friends", "Sophie Dee and Friends", "http://www.sophiedeeandfriends.com/", "http://www.sophiedeeandfriends.com/tour1/")
+searchSites[984] = ("Lee Bang XXX", "Lee Bang XXX", "http://www.leebangxxx.com/", "http://www.leebangxxx.com/tour1/")
+searchSites[985] = ("The Squirt Instructor", "The Squirt Instructor", "http://www.thesquirtinstructor.com/", "http://www.thesquirtinstructor.com/tour1/")
+searchSites[986] = ("Girls In Nylon", "Girls In Nylon", "http://www.girlsinnylon.com/", "http://www.girlsinnylon.com/tour1/")
+searchSites[987] = ("Kiera King", "Kiera King", "http://www.kieraking.com/", "http://www.kieraking.com/tour1/")
+searchSites[988] = ("Melone Challenge", "Melone Challenge", "https://melonechallenge.com/", "https://melonechallenge.com/")
+searchSites[989] = ("Holly Randall", "Holly Randall", "https://hollyrandall.com/", "https://hollyrandall.com/search.php?query=")
+searchSites[990] = ("In The Crack", "In The Crack", "https://inthecrack.com", "https://inthecrack.com/Collections/Name/")
+searchSites[991] = ("Angela White", "Angela White", "http://angelawhite.com/", "http://angelawhite.com/tour/search?query=")
+searchSites[992] = ("Cumbizz", "Cumbizz", "https://www.cumbizz.com/", "https://www.cumbizz.com/film/")
+searchSites[993] = ("Pornstar Platinum", "Pornstar Platinum", "https://www.pornstarplatinum.com/", "https://www.pornstarplatinum.com/tour/index.php?search=")
+searchSites[994] = ("Woodman Casting X", "Woodman Casting X", "https://www.woodmancastingx.com", "https://www.woodmancastingx.com/search?query=")
+searchSites[995] = ("FamilySwapXXX", "FamilySwapXXX", "https://familyswap.xxx", "https://familyswap.xxx/video/watch/")
+searchSites[996] = ("GirlsOnlyPorn", "GirlsOnlyPorn", "https://girlsonlyporn.com", "https://girlsonlyporn.com/video/watch/")
+searchSites[997] = ("TeamSkeet X BAEB", "TeamSkeet X BAEB", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[998] = ("TeamSkeet X Banana Fever", "TeamSkeet X Banana Fever", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[999] = ("TeamSkeet X CamSoda", "TeamSkeet X CamSoda", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1000] = ("TeamSkeet X Club Sweethearts", "TeamSkeet X Club Sweethearts", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1001] = ("TeamSkeet X Eva Elfie", "TeamSkeet X Eva Elfie", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1002] = ("TeamSkeet X Flora Rodgers", "TeamSkeet X Flora Rodgers", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1003] = ("TeamSkeet X Fucking Awesome", "TeamSkeet X Fucking Awesome", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1004] = ("TeamSkeet X James Deen", "TeamSkeet X James Deen", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1005] = ("TeamSkeet X Joy Bear", "TeamSkeet X Joy Bear", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1006] = ("TeamSkeet X Layna Landry", "TeamSkeet X Layna Landry", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1007] = ("TeamSkeet X LunaXJames", "TeamSkeet X LunaXJames", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1008] = ("TeamSkeet X Mickey Mod", "TeamSkeet X Mickey Mod", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1009] = ("TeamSkeet X OG", "TeamSkeet X OG", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1010] = ("TeamSkeet X Reislin", "TeamSkeet X Reislin", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1011] = ("TeamSkeet X SpankMonster", "TeamSkeet X SpankMonster", "https://www.teamskeet.com", "https://www.teamskeet.com/movies")
+searchSites[1012] = ("Porn Mega Load", "Porn Mega Load", "https://www.pornmegaload.com", "https://www.pornmegaload.com/hd-porn-scenes/")
+searchSites[1013] = ("Naughty Mag", "Naughty Mag", "https://www.naughtymag.com", "https://www.naughtymag.com/amateur-videos/")
+searchSites[1014] = ("XL Girls", "XL Girls", "https://www.xlgirls.com", "https://www.xlgirls.com/bbw-videos/")
+searchSites[1015] = ("Bootylicious Mag", "Bootylicious Mag", "https://www.bootyliciousmag.com", "https://www.bootyliciousmag.com/big-booty-videos/")
+searchSites[1016] = ("50 Plus MILFS", "50 Plus MILFS", "https://www.50plusmilfs.com", "https://www.50plusmilfs.com/xxx-milf-videos/")
+searchSites[1017] = ("60 Plus MILFS", "60 Plus MILFS", "https://www.60plusmilfs.com", "https://www.60plusmilfs.com/xxx-granny-videos/")
+searchSites[1018] = ("18 Eighteen", "18 Eighteen", "https://www.18eighteen.com", "https://www.18eighteen.com/xxx-teen-videos/")
+searchSites[1019] = ("Big Boob Bundle", "Big Boob Bundle", "https://www.bigboobbundle.com", "https://www.bigboobbundle.com/videos/")
+searchSites[1020] = ("Leg Sex", "Leg Sex", "https://www.legsex.com", "https://www.legsex.com/foot-fetish-videos/")
+searchSites[1021] = ("Scoreland", "Scoreland", "https://www.scoreland.com", "https://www.scoreland.com/big-boob-videos/")
 
 def getSearchBaseURL(siteID):
     return searchSites[siteID][2]
@@ -1203,6 +1253,7 @@ def getSearchSettings(mediaTitle):
         ('^am ', 'AssMasterpiece '),
         ('^analb ', 'AnalBeauty '),
         ('^ap ', 'AssParade '),
+        ('^aw ', 'AngelaWhite '),
         ('^baebz ', 'Baeb '),
         ('^bblib ', 'BigButtsLikeItBig '),
         ('^bcasting ', 'BangCasting '),
@@ -1276,11 +1327,13 @@ def getSearchSettings(mediaTitle):
         ('^hegre-art ', 'Hegre '),
         ('^hoh ', 'HandsOnHardcore '),
         ('^hotab ', 'HouseofTaboo '),
+        ('^hr ', 'HollyRandall '),
         ('^ht ', 'Hogtied '),
         ('^hustl3r ', 'Hustler '),
         ('^ihaw ', 'IHaveAWife '),
         ('^iktg ', 'IKnowThatGirl '),
         ('^il ', 'ImmoralLive '),
+        ('^itc ', 'InTheCrack '),
         ('^jb ', 'JavBus '),
         ('^kha ', 'KarupsHA '),
         ('^kow ', 'KarupsOW '),
@@ -1346,6 +1399,7 @@ def getSearchSettings(mediaTitle):
         ('^phd ', 'PassionHD '),
         ('^phdp ', 'PetiteHDPorn '),
         ('^plib ', 'PornstarsLikeitBig '),
+        ('^pml ', 'PornMegaLoad '),
         ('^pop ', 'PervsOnPatrol '),
         ('^ppu ', 'PublicPickups '),
         ('^prdi ', 'PrettyDirty '),
